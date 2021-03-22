@@ -1,0 +1,169 @@
+.titulo1{
+    text-align: center;
+    font-family:'Lucida Sans Unicode';
+    color: green;
+    margin-top: -4%;
+    text-align: center;
+}
+
+
+h2{
+    color: yellowgreen;
+    text-decoration-line:underline;
+        
+}
+
+h3{
+    color: burlywood;
+}
+
+li{
+    font-family:'Lucida Sans Unicode';
+    margin-left: 1%;
+}
+
+.general{
+    border: 1px solid;
+    border-color: silver;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    
+    
+    
+}
+
+.estilizado{
+    border: silver 1px solid;
+    border-width: 160%;
+    font-family:'Lucida Sans Unicode';
+    margin-right: 1%;;
+    margin-bottom: 1%;
+    position: relative;
+    margin-left: 23%;
+    margin-top: -21.8%;
+    background-image: linear-gradient(to bottom, white, rgb(222, 222, 222));
+  
+}
+
+.cuerpoentero{
+  border: solid silver;
+  margin-right: 38%;
+  margin-left: 1%;
+  width: 59%;
+  height: 100%;
+  border-width: 50px;
+  border-top-width: 0px;
+border-right-width: 15px;
+border-bottom-width: 0px;
+border-left-width: 15px;
+  border-inline-style: inherit;
+}
+
+
+.redondeado {
+  /*border: silver 20px solid;*/
+    border-image-outset: 10px;
+    border-radius: 4%;
+    border-width: 15px;
+    box-sizing: border-box;
+    border-color: silver;
+    border-style: solid;
+    padding-bottom: 1%;
+    padding-right: 2%;
+    width: 950px;
+    align-items: center;    
+    
+
+
+}
+
+b{
+    color: chocolate;
+}
+
+.menu{
+    position: relative;
+    margin-bottom: 0px;
+    padding-left: 2%;
+    margin-top: 0%;
+}
+
+button{
+    background-color:palegreen;
+    padding: 10px 20px;
+    border-radius: 0%;
+    border: 1px solid;
+    border-color: seashell; 
+    align-items: center;
+    width: 15%;
+    font-family:'Lucida Sans Unicode';
+    margin-left: 1%;
+    position: relative;
+    margin-bottom: -20%;
+    
+}
+
+.boton1 {
+  background-color:palegreen; 
+  color: black; 
+  background-image: linear-gradient(to bottom, white,palegreen);
+}
+
+.boton2 {
+  background-color:palegreen; 
+  color: black; 
+  background-image: linear-gradient(to bottom, white,palegreen);
+}
+
+.boton3 {
+  background-color:palegreen; 
+  color: black; 
+  background-image: linear-gradient(to bottom, white,palegreen);
+}
+
+.boton4 {
+  background-color:palegreen; 
+  color: black; 
+  background-image: linear-gradient(to bottom, white,palegreen);
+}
+
+.boton1:hover {
+  background-color:palegoldenrod;
+  color: black; 
+  background-image: linear-gradient(to bottom, white,palegoldenrod);
+}
+
+.boton2:hover {
+  background-color:palegoldenrod;
+  color: black; 
+  background-image: linear-gradient(to bottom, white,palegoldenrod);
+}
+
+.boton3:hover {
+  background-color:palegoldenrod;
+  color: black; 
+  background-image: linear-gradient(to bottom, white,palegoldenrod);
+}
+
+.boton4:hover {
+  background-color:palegoldenrod;
+  color: black; 
+  background-image: linear-gradient(to bottom, white,palegoldenrod);
+}
+
+img{
+  padding-top:2%;
+  padding-left: 1%;
+  border-radius: 1%;
+  width: 100%;
+}
+
+.pie{
+  border: silver;
+  border-radius: 1%;
+  width: 80%;
+  text-align:center;
+  padding-left: 17%;
+  color: silver;
+}

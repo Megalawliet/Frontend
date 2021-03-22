@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    font-family:'Lucida Sans Unicode';
+    color: green;
+}
+
+/*añadir sombreado 3d en forma cuadrado*/
+/*arreglar el padding dels 2 divs*/
+/*arreglar el underlined del text*/
+
+h2{
+    color: yellowgreen;
+    text-decoration-line:underline;
+    /*padding-left: 1%;*/
+        
+}
+
+h3{
+    color: burlywood;
+}
+
+li{
+    font-family:'Lucida Sans Unicode';
+    margin-left: 1%;
+}
+
+.general{
+    border: 1px solid;
+    border-color: silver;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    
+}
+
+.estilizado{
+    border: gainsboro 1px solid;
+    border-width: 150%;
+    font-family:'Lucida Sans Unicode';
+    margin-right: 1%;;
+    margin-bottom: 1%;
+    position: relative;
+    margin-left: 25%;
+    margin-top: -15%;
+}
+
+.cuerpoentero{
+    border: silver 20px solid;
+    box-shadow: 20%;
+    margin-bottom: 1%;
+    width: 900px;
+    align-items: center;
+}
+
+b{
+    color: chocolate;
+}
+
+.menu{
+    position: relative;
+    margin-bottom: 15px;
+    padding-left: 2%;
+}

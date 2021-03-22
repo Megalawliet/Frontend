@@ -1,0 +1,115 @@
+h1{
+    text-align: center;
+    font-family:'Lucida Sans Unicode';
+    color: green;
+}
+
+
+h2{
+    color: yellowgreen;
+    text-decoration-line:underline;
+        
+}
+
+h3{
+    color: burlywood;
+}
+
+li{
+    font-family:'Lucida Sans Unicode';
+    margin-left: 1%;
+}
+
+.general{
+    border: 1px solid;
+    border-color: silver;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    
+}
+
+.estilizado{
+    border: gainsboro 1px solid;
+    border-width: 150%;
+    font-family:'Lucida Sans Unicode';
+    margin-right: 1%;;
+    margin-bottom: 1%;
+    position: relative;
+    margin-left: 23%;
+    margin-top: -23%;
+}
+
+.cuerpoentero{
+    border: silver 20px solid;
+    box-shadow: 20%;
+    margin-bottom: 1%;
+    width: 900px;
+    align-items: center;
+}
+
+b{
+    color: chocolate;
+}
+
+.menu{
+    position: relative;
+    margin-bottom: 0px;
+    padding-left: 2%;
+    margin-top: 8%;
+}
+
+button{
+    background-color:palegreen;
+    padding: 10px 20px;
+    border-radius: 0%;
+    border: 1px solid;
+    border-color: seashell; 
+    align-items: center;
+    width: 15%;
+    font-family:'Lucida Sans Unicode';
+    margin-left: 1%;
+    position: relative;
+    margin-bottom: -20%;
+    
+}
+
+.boton1 {
+  background-color:palegreen; 
+  color: black; 
+}
+
+.boton2 {
+  background-color:palegreen; 
+  color: black; 
+}
+
+.boton3 {
+  background-color:palegreen; 
+  color: black; 
+}
+
+.boton4 {
+  background-color:palegreen; 
+  color: black; 
+}
+
+.boton1:hover {
+  background-color:palegoldenrod;
+  color: black; 
+}
+
+.boton2:hover {
+  background-color:palegoldenrod;
+  color: black; 
+}
+
+.boton3:hover {
+  background-color:palegoldenrod;
+  color: black; 
+}
+
+.boton4:hover {
+  background-color:palegoldenrod;
+  color: black; 
+}

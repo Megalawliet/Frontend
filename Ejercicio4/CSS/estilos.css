@@ -1,0 +1,28 @@
+h1{
+    background-color:#ffdc8c;
+    color: dimgrey;
+    margin-top: -10px;
+    margin-left: -7px;
+    margin-right: -7px;
+}
+
+h2{
+    color: cadetblue;
+    font-style: italic;
+    font-family: Verdana;
+
+}
+
+body{
+background-color: beige;
+
+}
+
+i{
+    color:dimgray;
+    
+}
+
+b{
+    color:slategray;
+}

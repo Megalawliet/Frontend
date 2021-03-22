@@ -1,0 +1,27 @@
+p{
+    color: violet;
+    font-size: 25px;
+}
+
+h1{
+    font-size: 40px;
+    background-color: blueviolet;
+    padding-top: 15px;
+    font-family:"Dindalove";
+    font-style: italic;
+    color: aliceblue;
+    margin-right: 1119px;
+    
+    
+}
+
+@font-face {
+        font-family:"Dindalove";
+        src: url("../fonts/Dindalove.ttf");
+        
+        
+    }
+    
+body{
+    background-color: bisque;
+}

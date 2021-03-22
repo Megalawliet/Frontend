@@ -1,0 +1,30 @@
+body{
+background-color: #f0f8ff;
+padding-left: 450px;
+padding-right: 450px;
+padding-top: 30px;
+}
+
+h1{
+font-family: Juno;
+font-size: 60px;
+font-style: italic;  
+}
+
+/*Metemos otra fuente por si nos hiciese falta*/
+@font-face {
+        font-family: Valentime;
+        src: url('../fonts/Valentime.otf');
+        
+        
+    }
+
+@font-face{
+    font-family: Juno;
+    src: url(../fonts/juno-condensed-medium.ttf);
+}
+
+h2{
+    font-family: Juno;
+    font-style: italic;
+}
